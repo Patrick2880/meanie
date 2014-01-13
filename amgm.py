@@ -26,6 +26,6 @@ def main(means):
 if __name__ == '__main__':
   import sys
   if len(sys.argv) < 2:
-    sys.stderr.write('Usage: python %s mean1 mean2 mean3)' % sys.argv[0])
+    sys.stderr.write('Usage: python %s mean1 mean2 mean3 ... \n' % sys.argv[0])
     sys.exit(1)
   main(sys.argv[1:])
