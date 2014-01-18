@@ -18,6 +18,7 @@ def arigeo_mean(x, threshold = 1e-10): # x is a list of values
   return arith
 
 def main(means):
+  print "Input", means
   means = map(float,means)
   print "arithmetic mean = ", arithmetic_mean(means)
   print "geometric mean = ", geometric_mean(means)
