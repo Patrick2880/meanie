@@ -29,7 +29,7 @@ geometric mean =  1.16580498972
 arithmetic-geometric mean =  1.89706388084
 ```
 
-#### To calculate arithmetic-geometric mean using a tab delimited file:
+#### To calculate arithmetic-geometric mean using a tab/space delimited file:
 
 Sample input file (`test.txt`):
 
