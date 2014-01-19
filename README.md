@@ -8,9 +8,9 @@ Python Implementations of Various Mean Calculations:
 * Root mean square (`rms.py`)
 * Harmonic mean (`hm.py`)
 
-A bonus `evaluate.py` is included to calculate (requires precision and recall):
-* F-score (harmonic mean)
-* G-measure (geometric mean)
+A bonus `evaluate.py` is included to calculate (given precision and recall):
+* F-score (i.e. harmonic mean)
+* G-measure (i.e. geometric mean)
 
 ***
 
