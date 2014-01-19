@@ -16,6 +16,12 @@ arithmetic mean =  3.0
 geometric mean =  2.6051710847
 arithmetic-geometric mean =  2.79910366264
 
+$ python amgm.py 1 2 3 4 5 6 7 8 9 10
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']
+arithmetic mean =  5.5
+geometric mean =  4.52872868812
+arithmetic-geometric mean =  5.00257138023
+
 $ python amgm.py 1.0 3.5 0.12 0.58 8.84
 Input: ['1.0', '3.5', '0.12', '0.58', '8.84']
 arithmetic mean =  2.808
