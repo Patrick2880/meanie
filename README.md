@@ -67,3 +67,18 @@ arithmetic mean =  2.808
 geometric mean =  1.16580498972
 arithmetic-geometric mean =  1.89706388084
 ```
+
+
+#### To calculate harmonic mean:
+```
+$ python hm.py 1 2 3 4 5v
+Input: ['1', '2', '3', '4', '5']
+harmonic mean =  2.1897810219
+```
+
+#### To calculate root mean square:
+```
+alvas@ubi:~/git/meanie$ python rms.py 1 2 3 4 5
+Input: ['1', '2', '3', '4', '5']
+root mean square=  3.31662479036
+```
