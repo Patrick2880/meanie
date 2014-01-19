@@ -48,6 +48,8 @@ Example:
 ```
 $ echo -e "1 2 3 4 5\n1.0 3.5 0.12 0.58 8.84" > test.txt
 $ cat test.txt
+1 2 3 4 5
+1.0 3.5 0.12 0.58 8.84
 $ ls
 amgm.py   README.md   test.txt
 $ while read line; do python amgm.py $line; done < test.txt
