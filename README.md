@@ -12,6 +12,7 @@ A bonus `evaluate.py` is included to calculate:
 * F-score
 * G-measure
 
+***
 
 Usage
 ------
@@ -87,9 +88,12 @@ Input: ['1', '2', '3', '4', '5']
 root mean square=  3.31662479036
 ```
 
+***
+
 Evaluation Usage
 ----------------
 
 #### To calculate G-measure:
+
 
 
