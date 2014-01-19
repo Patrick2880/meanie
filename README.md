@@ -5,8 +5,8 @@ Python Implementations of Various Mean Calculations:
 * Arithmetic mean (`amgm.py`)
 * Arithmetric-Geometric mean (`amgm.py`)
 * Geometric mean (`amgm.py`)
-* Root mean square (`rms.py`)
 * Harmonic mean (`hm.py`)
+* Root mean square (`rms.py`)
 
 A bonus `evaluate.py` is included to calculate (given precision and recall):
 * F-score (i.e. harmonic mean)
