@@ -4,13 +4,13 @@ meanie
 Python Implementations of Various Mean Calculations:
 * Arithmetic mean (`amgm.py`)
 * Arithmetric-Geometric mean (`amgm.py`)
-* Geometric mean (`amgm.py`, to calculate G-measure)
+* Geometric mean (`amgm.py`)
 * Root mean square (`rms.py`)
-* Harmonic mean (`hm.py`, to calculate F-score)
+* Harmonic mean (`hm.py`)
 
-A bonus `evaluate.py` is included to calculate:
-* F-score
-* G-measure
+A bonus `evaluate.py` is included to calculate (requires precision and recall):
+* F-score (harmonic mean)
+* G-measure (geometric mean)
 
 ***
 
