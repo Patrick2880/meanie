@@ -1,7 +1,12 @@
 meanie
 ======
 
-Python Implementations of Various Mean Calculations
+Python Implementations of Various Mean Calculations:
+* Arithmetic mean (`amgm.py`)
+* Arithmetric-Geometric mean (`amgm.py`)
+* Geometric mean (`amgm.py`)
+* Root mean square (`rms.py`)
+* Harmonic mean (`hm.py`)
 
 
 Usage
