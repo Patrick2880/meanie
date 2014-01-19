@@ -7,7 +7,7 @@ Python Implementations of Various Mean Calculations
 Usage
 ------
 
-To calculate arithmetic-geometric mean: 
+#### To calculate arithmetic-geometric mean: 
 
 ```
 $ python amgm.py 1 2 3 4 5
@@ -23,9 +23,9 @@ geometric mean =  1.16580498972
 arithmetic-geometric mean =  1.89706388084
 ```
 
-To calculate arithmetic-geometric mean using a tab delimited file:
+#### To calculate arithmetic-geometric mean using a tab delimited file:
 
-Sample input file:
+Sample input file (`test.txt`):
 
 ```
 1 2 3 4 5
