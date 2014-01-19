@@ -9,7 +9,7 @@ def root_mean_square(x): # x is a list of values.
 def main(means):
   print "Input:", means
   means = map(float,means)
-  print "root mean square= ", root_mean_square(means)
+  print "root mean square = ", root_mean_square(means)
 
 if __name__ == '__main__':
   import sys
