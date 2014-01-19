@@ -4,9 +4,13 @@ meanie
 Python Implementations of Various Mean Calculations:
 * Arithmetic mean (`amgm.py`)
 * Arithmetric-Geometric mean (`amgm.py`)
-* Geometric mean (`amgm.py`)
+* Geometric mean (`amgm.py`, to calculate G-measure)
 * Root mean square (`rms.py`)
-* Harmonic mean (`hm.py`)
+* Harmonic mean (`hm.py`, to calculate F-score)
+
+A bonus `evaluate.py` is included to calculate:
+* F-score
+* G-measure
 
 
 Usage
@@ -82,3 +86,10 @@ alvas@ubi:~/git/meanie$ python rms.py 1 2 3 4 5
 Input: ['1', '2', '3', '4', '5']
 root mean square=  3.31662479036
 ```
+
+Evaluation Usage
+----------------
+
+#### To calculate G-measure:
+
+
