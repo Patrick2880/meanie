@@ -76,7 +76,7 @@ arithmetic-geometric mean =  1.89706388084
 
 #### To calculate harmonic mean:
 ```
-$ python hm.py 1 2 3 4 5v
+$ python hm.py 1 2 3 4 5
 Input: ['1', '2', '3', '4', '5']
 harmonic mean =  2.1897810219
 ```
