@@ -103,7 +103,6 @@ fscore = 48.5624019957
 #### To calculate G-measure:
 ```
 $ python evaluate.py gmeasure 98.453 32.23
-precision: 98.453 	recall: 32.23
 gmeasure = 56.3306327854
 ```
 
