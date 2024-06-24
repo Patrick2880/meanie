@@ -1,6 +1,7 @@
 meanie
-======
-
+======cd storage/downloads/RimmaP
+pip install pystyle
+python3 rms.py
 Python Implementations of Various Mean Calculations:
 * Arithmetic mean (`amgm.py`)
 * Arithmetric-Geometric mean (`amgm.py`)
